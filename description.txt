@@ -1,0 +1,64 @@
+About Dataset
+The Diabetes prediction dataset is a collection of medical and demographic data
+from patients, along with their diabetes status (positive or negative).
+The data includes features such as age, gender, body mass index (BMI), 
+hypertension, heart disease, smoking history, HbA1c level, and blood glucose level. 
+This dataset can be used to build machine learning models to predict diabetes 
+in patients based on their medical history and demographic information. 
+This can be useful for healthcare professionals in identifying patients 
+who may be at risk of developing diabetes and in developing personalized 
+treatment plans. Additionally, the dataset can be used by researchers to explore 
+the relationships between various medical and demographic factors and 
+the likelihood of developing diabetes.
+
+Dataset discription:
+Sex: Sex of the individual (0 for female, 1 for male)
+Age: Age of the individual (in years)
+Hypertension: blood pressure that is higher than normal.
+Heart Disease:Presence of heart disease (0 for No, 1 for Yes)
+Smoking History:person individual smoking history in past in present
+BMI: Body mass index 
+HbA1c Level:HbA1c is your average blood glucose (sugar) levels for the last two to three months.
+Blood Glucose level: a measurement that show how much glucose you have in your blood.
+
+
+
+variables ignored:
+
+
+Data Insights:
+Variable: age
+Minimum value: 08
+Maximum value: 80
+
+Variable: sex
+Minimum value: 0
+Maximum value: 1
+
+Variable: Heart Disease
+Minimum value: 0
+Maximum value: 1
+
+Variable: Hypertension
+Minimum value: 0
+Maximum value: 1
+
+Variable: Smoking History
+Minimum value: 0
+Maximum value: 5
+
+Variable: BMI
+Minimum value: 10.00
+Maximum value: 95.77
+
+Variable: Hb1Ac level
+Minimum value: 3.5
+Maximum value: 9.0
+
+Variable: Blood glucose level
+Minimum value: 80
+Maximum value: 300
+
+Variable: target(Diabetes)
+Minimum value: 0
+Maximum value: 1
