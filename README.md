@@ -50,16 +50,21 @@ pip install -r requirements.txt
 4. PyQt6==6.2.3
 5. scikit-learn==1.0.2
 6. matplotlib==3.5.1
+1. Creating a GUI Interface using PyQt6.
+2. Getting User-Inputs using different GUI elements.
+3. Worked on Collection and Preprocessing of Dataset using Pandas. 
+
 
 
 ## Work done: 
 
 Navadiya Parth :
-1. Integrating Logistic Regression model to main file in order to get predictions.
-2. Modifying and Preparing Data with use of numpy arrays.
-3. Training Working Logistic Regression Model with help of Scikit-learn.
-
-Nemish kyada :
 1. Creating a GUI Interface using PyQt6.
 2. Getting User-Inputs using different GUI elements.
 3. Worked on Collection and Preprocessing of Dataset using Pandas. 
+
+
+Nemish kyada :
+1. Integrating Logistic Regression model to main file in order to get predictions.
+2. Modifying and Preparing Data with use of numpy arrays.
+3. Training Working Logistic Regression Model with help of Scikit-learn.
